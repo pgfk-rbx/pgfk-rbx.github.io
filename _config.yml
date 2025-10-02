@@ -1,7 +1,8 @@
 title: pgfk
 description: An open-source, extendable EToH Multi-Tower Kit.
+url: https://pgfk-rbx.github.io
 
-remote-theme: just-the-docs
+theme: just-the-docs
 color_scheme: pgfk_dark
 
 enable_copy_code_button: true
