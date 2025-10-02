@@ -1,0 +1,12 @@
+title: pgfk
+description: An open-source, extendable EToH Multi-Tower Kit.
+
+theme: just-the-docs
+color_scheme: pgfk_dark
+
+enable_copy_code_button: true
+
+callouts:
+  warning:
+    title: Warning
+    color: red
